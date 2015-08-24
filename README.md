@@ -1,3 +1,3 @@
 # authorea
 Authorea files
-Use for authorea files to wotk offline
+Use for authorea files to work offline.
